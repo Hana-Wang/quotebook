@@ -12,7 +12,7 @@
 int main() // C++ programs start by executing the function main
 {
     cout << "Hello, World!\n"; // output "Hello, World!"
-    cout <<"I made a change to commit";
+    cout <<"I made a change to ..";
     return 0;
 }
 
