@@ -2,3 +2,8 @@ Strength through struggle.
 ----Michael Choi
 
 I like blue.  ---Jay Patel
+<<<<<<< HEAD
+=======
+
+Live long and prosper.   ---Spock
+>>>>>>> personal_quotes
